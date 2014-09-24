@@ -11,9 +11,11 @@ var _name = 'Bender'
 
 // create store
 var myStore = store({
+
   getName: function () {
     return _name
   }
+
 })
 
 module.exports = myStore
