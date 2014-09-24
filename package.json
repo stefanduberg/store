@@ -1,13 +1,13 @@
 {
   "name": "flux-store",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Flux Store",
   "main": "flux-store.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/stefanduberg/flux-store.git"
   },
-  "author": "Stefan Duberg <stefan.duberg@sonymusic.com>",
+  "author": "Stefan Duberg <stefanduberg@me.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/stefanduberg/flux-store/issues"
