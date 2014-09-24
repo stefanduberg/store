@@ -1,2 +1,2 @@
-store
+flux-store
 =====
