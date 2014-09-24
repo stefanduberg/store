@@ -1,5 +1,6 @@
 flux-store
 ==========
+http://facebook.github.io/flux/
 
 # example
 `mystore.js`
