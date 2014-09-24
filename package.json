@@ -1,18 +1,18 @@
 {
-  "name": "flux-store",
+  "name": "store",
   "version": "0.1.0",
-  "description": "Flux Store",
-  "main": "flux-store.js",
+  "description": "Store",
+  "main": "store.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/stefanduberg/flux-store.git"
+    "url": "https://github.com/stefanduberg/store.git"
   },
   "author": "Stefan Duberg <stefanduberg@me.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/stefanduberg/flux-store/issues"
+    "url": "https://github.com/stefanduberg/store/issues"
   },
-  "homepage": "https://github.com/stefanduberg/flux-store",
+  "homepage": "https://github.com/stefanduberg/store",
   "dependencies": {
     "object-assign": "^1.0.0"
   }
